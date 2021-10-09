@@ -33,7 +33,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
 
-  <title>Panel Principal | Agropecuaria</title>
+  <title>Esmeralda</title>
 
   <!-- Font Awesome Icons -->
   <link rel="stylesheet" href="../public/plugins/fontawesome-free/css/all.min.css">
@@ -141,7 +141,7 @@
     <a href="home.php" class="brand-link navbar-navy">
       <img src="../public/dist/img/AdminLTELogo.png" alt="AdminLTE Logo" class="brand-image img-circle elevation-3"
            style="opacity: .8">
-      <span style="color: #fff;" class="brand-text font-weight">Agropecuaria</span>
+      <span style="color: #fff;" class="brand-text font-weight">Esmeralda</span>
     </a>
 
     <!-- Sidebar -->
