@@ -18,5 +18,11 @@ INSTALACIÓN:
 
 
 ### IMPLEMENTAR PROYECTO
-
-![image](https://github.com/jassonh/Esmeralda/blob/main/readme.info/pro1.png)
+1. Ejecutar Xampp
+2. Activar los servicios:
+![referencia](https://github.com/jassonh/Esmeralda/blob/main/readme.info/pro2.png)
+3. Ejecutar [phpMyAdmin](http://localhost/phpmyadmin/).
+![referencia](https://github.com/jassonh/Esmeralda/blob/main/readme.info/pro3.png)
+4. Buscar los archivos del sistema.
+![referencia](https://github.com/jassonh/Esmeralda/blob/main/readme.info/pro1.png)
+ 
