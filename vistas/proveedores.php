@@ -286,7 +286,7 @@
 
     } else {
 
-      header("Location:".Conectar::ruta()."vistas/index.php");
+      header("Location:index.php");
       exit();
     }
 

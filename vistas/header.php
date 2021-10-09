@@ -598,7 +598,7 @@
 
   } else {
 
-    header("Location:".conn::ruta()."vistas/index.php");
+    header("Location:index.php");
     exit();
   }
 

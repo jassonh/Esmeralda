@@ -4,7 +4,7 @@
 
 	session_destroy();
 
-	header("Location:".Conexion::ruta()."vistas/index.php");
+	header('Location:index.php');
 	exit();
 
 ?>
