@@ -46,22 +46,9 @@
 
            $conn= parent::conexion();
 
-          $sql= "select p.idProductos, p.idCategoria, c.nombreCategoria as nombreCategoria, p.producto, p.presentacion, p.UnidadMedida, p.moneda, p.precioCompra, p.precioVenta, p.stock, p.tipoProducto, p.estadoProducto, p.imagen, p.fechaExpiracion as fechaExpiracion, c.idCategoria
-
-           from productos p
-
-              INNER JOIN categoria c ON p.idCategoria=c.idCategoria
-
-
-              where p.stock >= 0 and p.estadoProducto='0'
-
-
-           ";
-
+          $sql= "select p.idProductos, p.idCategoria, c.nombreCategoria as nombreCategoria, p.producto, p.presentacion, p.UnidadMedida, p.moneda, p.precioCompra, p.precioVenta, p.stock, p.tipoProducto, p.estadoProducto, p.imagen, p.fechaExpiracion as fechaExpiracion, c.idCategoria from productos p INNER JOIN categoria c ON p.idCategoria=c.idCategoria where p.stock >= 0 and p.estadoProducto='0' ";
            $sql=$conn->prepare($sql);
-
            $sql->execute();
-
            return $resultado= $sql->fetchAll(PDO::FETCH_ASSOC);
 
 
