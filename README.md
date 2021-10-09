@@ -23,6 +23,13 @@ INSTALACIÓN:
 ![referencia](https://github.com/jassonh/Esmeralda/blob/main/readme.info/pro2.png)
 3. Ejecutar [phpMyAdmin](http://localhost/phpmyadmin/).
 ![referencia](https://github.com/jassonh/Esmeralda/blob/main/readme.info/pro3.png)
-4. Buscar los archivos del sistema.
-![referencia](https://github.com/jassonh/Esmeralda/blob/main/readme.info/pro1.png)
- 
+4. Crear base de datos con nombre **dbesmeralda**.
+![referencia](https://github.com/jassonh/Esmeralda/blob/main/readme.info/pro4.png)
+5. Importar base de datos
+![referencia](https://github.com/jassonh/Esmeralda/blob/main/readme.info/pro5.png)
+4. Seleccionar script de base de datos en la carpeta *\Esmeralda\BASE DE DATOS\dbesmeralda.sql*
+![referencia](https://github.com/jassonh/Esmeralda/blob/main/readme.info/pro6.png)
+5. Ejecutar el script de la base de datos.
+![referencia](https://github.com/jassonh/Esmeralda/blob/main/readme.info/pro7.png)
+6. Se habrá importado correctamente la base de datos.
+![referencia](https://github.com/jassonh/Esmeralda/blob/main/readme.info/pro8.png)
