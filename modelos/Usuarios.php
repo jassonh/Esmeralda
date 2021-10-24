@@ -30,13 +30,13 @@
 
 				if(empty($userName) and empty($password))
 				{
-					header("Location:" .conn::ruta()."vistas/index.php?m=2");
+					header("Location: ../vistas/index.php?m=2");
 					exit();
 				}
 
 				else if(!preg_match("/^[a-z0-9]+$/", $password))
 				{
-					header("Location:".conn::ruta()."vistas/index.php?m=1");
+					header("Location: ../vistas/index.php?m=1");
 					exit();
 				}
 				else
@@ -87,10 +87,10 @@
       in_array(9,$valores)?$_SESSION['usuarios']=1:$_SESSION['usuarios']=0;
       in_array(10,$valores)?$_SESSION['empresa']=1:$_SESSION['empresa']=0;
 
-				header("Location:".conn::ruta()."vistas/home.php");
+				header("Location: ../vistas/home.php");
 							exit();
 					}else{
-							header("Location:".conn::ruta()."vistas/index.php?m=1");
+							header("Location: ../vistas/index.php?m=1");
 							exit();
 					}
 				}
