@@ -35,7 +35,7 @@ INSTALACIÓN:
 ![referencia](https://github.com/jassonh/Esmeralda/blob/main/readme.info/pro8.png)
 
 ### UBICACIÓN CORRECTA DE LOS ARCHIVOS
-1. Verificar que los archivos hayan sido colocados en la carpeta correcta.
+1. Verificar que los archivos del respositorio se hayan colocado en la carpeta correcta.
 ![referencia](https://github.com/jassonh/Esmeralda/blob/main/readme.info/pro9.png)
 
 ### EJECUTAR PROYECTO
