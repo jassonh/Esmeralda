@@ -39,7 +39,7 @@ INSTALACIÓN:
 ![referencia](https://github.com/jassonh/Esmeralda/blob/main/readme.info/pro9.png)
 
 ### EJECUTAR PROYECTO
-2. Abrir proyecto [aquí](http://localhost/esmeralda/vistas/)
+2. Abrir proyecto al haber realizado la implementación local desde [aquí](http://localhost/esmeralda/vistas/)
 3. Colocar [credenciales](https://drive.google.com/file/d/1fSpf58EORZI5KGYw-h2EIo3fQdUWLfMi/view?usp=sharing)
 
 
